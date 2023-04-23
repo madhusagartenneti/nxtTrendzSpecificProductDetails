@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.product-item {
+  text-decoration: none;
+}
+.title-similar {
+  font-size: 25px;
+  color: #475569;
+  font-family: Roboto;
+}
